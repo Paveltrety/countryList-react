@@ -1,8 +1,8 @@
-# Demo
+# Demo (У каждой страны есть своя страница)
 
 https://paveltrety.github.io/countryList-react/
 
-## SPA адаптирована лишь под Dekstop
+## SPA адаптирована лишь под Dekstop 
 
 
 
