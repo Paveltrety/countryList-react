@@ -8,11 +8,10 @@ https://paveltrety.github.io/countryList-react/
 
 ### Stack:
 
-ReactJS + хуки
-React Router
-Redux
-Redux thunk
-json-server
+-ReactJS + хуки
+-React Router
+-Redux
+-Redux thunk
 Axios
 classnames
 
