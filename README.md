@@ -2,11 +2,11 @@
 
 https://paveltrety.github.io/countryList-react/
 
-## Available Scripts
+## SPA адаптирована лишь под Dekstop
 
-In the project directory, you can run:
 
-### `npm start`
+
+##Стэк технологий:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
