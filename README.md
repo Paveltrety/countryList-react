@@ -11,6 +11,7 @@ https://paveltrety.github.io/countryList-react/
 - ReactJS + хуки
 - React Router
 - Redux
+- React-redux
 - Redux thunk
 - Axios
 
