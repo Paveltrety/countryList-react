@@ -12,7 +12,7 @@ https://paveltrety.github.io/countryList-react/
 - React Router
 - Redux
 - Redux thunk
-Axios
-classnames
+- Axios
+
 
 
